@@ -35,8 +35,8 @@ header > h1{
 }
 
 header > p{ 
-    font-size: 1.2em;
-    padding-bottom: 50px;     
+    font-size: 1.5em;
+    padding-bottom: 85px;     
    
     
 }
@@ -50,7 +50,7 @@ header a, footer a{
 }
 header a:hover, footer a:hover{
     text-decoration:overline underline; 
-    color: gray;   
+    color: rgba(248, 249, 175, 0.926);   
         
 }
 
@@ -73,7 +73,7 @@ section > p{
 
 section.normal{    
     background-color: wheat;
-    background-image: url('imagens/background001.jpg');
+    
 }
 
 section.imagem{
