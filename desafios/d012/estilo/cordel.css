@@ -50,7 +50,7 @@ header a, footer a{
 }
 header a:hover, footer a:hover{
     text-decoration:overline underline; 
-    color: rgba(248, 249, 175, 0.926);   
+    color: wheat
         
 }
 
